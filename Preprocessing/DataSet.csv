@@ -1,0 +1,11 @@
+Developer,Age,Salary,Married
+Delhi,42,78000,No
+Agra,32,48000,Yes
+Delhi,36,60000,No
+Mumbai,41,68000,No
+Agra,42,,Yes
+Mumbai,43,59000,Yes
+Delhi,,59000,No
+Agra,44,79000,Yes
+Mumbai,52,99000,No
+Agra,32,69000,Yes
