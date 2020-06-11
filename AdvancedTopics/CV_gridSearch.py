@@ -5,8 +5,6 @@ Created on Thu Jun 11 18:04:55 2020
 @author: Ravi Kumar
 """
 
-#conda install -c anaconda py-xgboost
-
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
